@@ -1,1 +1,1 @@
-# Belajar-Typscript
+# Belajar-Typescript
